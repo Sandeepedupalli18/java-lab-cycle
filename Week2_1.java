@@ -26,6 +26,6 @@ area=l*b;
 }
 static void display()
 {
-System.out.println("Area="+area);
+System.out.println("Area of the Rectangle is:"+area);
 }
 }
